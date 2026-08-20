@@ -37,8 +37,27 @@
 
   ---
 
-  <!-- Estatísticas do GitHub -->
+  <!-- Projetos em Destaque -->
+  <h2>📌 Projetos em Destaque</h2>
 
+  <p>
+    <a href="https://github.com/VIZAODAVI/Sprint-de-arquitetura-inicial">
+      <img src="https://img.shields.io/badge/Projeto-Sprint%20de%20Arquitetura%20Inicial-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Sprint de Arquitetura Inicial" />
+    </a>
+      <a href="https://github.com/VIZAODAVI/Sprint-de-arquitetura-inicial">
+      <img src="https://img.shields.io/badge/Projeto-Sprint%20de%20Arquitetura%20Inicial-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Sprint de Arquitetura Inicial" />
+    </a>
+      <a href="https://github.com/VIZAODAVI/CalculadoraIMC">
+      <img src="https://img.shields.io/badge/Projeto-Sprint%20de%20Arquitetura%20Inicial-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="CalculadoraIMC" />
+    </a>
+      <a href="https://github.com/VIZAODAVI/site-tres-paginas">
+      <img src="https://img.shields.io/badge/Projeto-Sprint%20de%20Arquitetura%20Inicial-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="site-tres-paginas" />
+    </a>
+  </p>
+
+  ---
+
+  <!-- Estatísticas do GitHub (Corrigidas) -->
   ---
 
   <!-- Gráfico de Atividades -->
@@ -49,12 +68,12 @@
   </p>
 
   ---
-<a href="https://github.com/VIZAODAVI/site_tres_paginas">
-  <img align="center" src="https://github-readme-stats-eight-now.vercel.app/api/pin/?username=VIZAODAVI&repo=NOME_DO_REPOSITORIO&theme=dracula" />
-</a>
+
   <!-- Redes e Contato -->
+  <h2>🌐 Conecte-se comigo</h2>
+
   <p>
-    <a href="https://instagram.com/vizao_38" target="_blank">
+    <a href="https://instagram.com/SEU_USUARIO" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
   </p>
