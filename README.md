@@ -1,50 +1,62 @@
 <div align="center">
 
-<img src="./vinlandsaga.jpg" width="700">
+  <!-- Banner Topo Estilizado (Roxo) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Davi%20Elias%20Sendretti&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descSize=16&descAlignY=62" width="100%" />
 
-<br><br>
+  <br />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000000000&color=2F81F7&center=true&vCenter=true&width=500&lines=Davi+Elias+Sendretti" alt="Davi Elias Sendretti" />
-</div>
+  <!-- Frase de destaque -->
+  <code>>_ Construindo soluções em Python, HTML e CSS</code>
 
-<br>
+  <br /><br />
+  ---
 
-*Estudante de Desenvolvimento de Sistemas*
+  <!-- Sobre Mim -->
+  <h2>🔮 Sobre Mim</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=2500&pause=1000&color=0D47A1&center=true&vCenter=true&width=350&lines=HTML+-+CSS+-+Python">
+  <p>
+    🚀 Entusiasta de tecnologia e desenvolvimento de software.<br />
+    🎬 Curto esportes, filmes e leitura nas horas vagas.<br />
+    💡 Foco atual: aprimorar projetos web e lógicas em Python.
+  </p>
 
----
+  ---
 
-## Sobre mim 🥊
+  <!-- Tecnologias e Ferramentas -->
+  <h2>🛠️ Tecnologias & Ferramentas</h2>
 
-Gosto de tecnologia, esportes, ver filmes e ler <br>
-Sempre buscando melhorar meus projetos
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </p>
 
-<br>
+  ---
 
-## Ferramentas 👨🏻‍💻
+  <!-- Estatísticas do GitHub (Tema Roxo / Dracula) -->
+  <h2>📊 Estatísticas</h2>
 
-<img src="https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-1976D2?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-0288D1?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Git-1565C0?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-0288D1?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <p>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=VIZAODAVI&show_icons=true&theme=dracula&locale=pt-br" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIZAODAVI&layout=compact&theme=dracula" />
+  </p>
 
-<br>
+  ---
 
-<img src="https://img.shields.io/badge/GitHub-0D47A1?style=for-the-badge&logo=github&logoColor=white">
+  <!-- Redes e Contato -->
+  <h2>🌐 Conecte-se comigo</h2>
 
-<br><br>
+  <p>
+    <a href="https://instagram.com/SEU_USUARIO" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
 
-## Redes Sociais 🤳🏻
+  <br />
 
-<a href="https://instagram.com/joaquim.rcosta">
-<img src="https://img.shields.io/badge/Instagram-1976D2?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<br><br>
-
-![Visitors](https://hits.sh/github.com/joaquimrcosta/joaquimrcosta.svg?style=for-the-badge&label=VISITAS&color=blue)
+  <!-- Contador de Visitas (Roxo) -->
+  <img src="https://komarev.com/ghpvc/?username=VIZAODAVI&color=8A2BE2&style=flat-square&label=VISITAS" />
 
 </div>
