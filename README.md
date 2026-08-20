@@ -37,12 +37,13 @@
   ---
 
   <!-- Estatísticas do GitHub (Tema Roxo / Dracula) -->
-  <h2>📊 Estatísticas</h2>
+<!-- Estatísticas do GitHub (Tema Roxo Estável) -->
+<h2>📊 Estatísticas</h2>
 
-  <p>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=VIZAODAVI&show_icons=true&theme=dracula&locale=pt-br" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIZAODAVI&layout=compact&theme=dracula" />
-  </p>
+<p>
+  <img height="165" src="https://github-readme-stats-eight-now.vercel.app/api?username=VIZAODAVI&show_icons=true&theme=dracula&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=VIZAODAVI&layout=compact&theme=dracula" />
+</p>
 
   ---
 
