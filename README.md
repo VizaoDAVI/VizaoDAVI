@@ -55,7 +55,9 @@
   </p>
 
   ---
-
+<a href="https://github.com/VIZAODAVI/NOME_DO_REPOSITORIO">
+  <img align="center" src="https://github-readme-stats-eight-now.vercel.app/api/pin/?username=VIZAODAVI&repo=NOME_DO_REPOSITORIO&theme=dracula" />
+</a>
   <!-- Redes e Contato -->
   <p>
     <a href="https://instagram.com/SEU_USUARIO" target="_blank">
