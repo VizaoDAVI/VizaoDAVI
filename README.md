@@ -2,7 +2,8 @@
 
   <!-- Banner Topo Estilizado (Roxo) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Davi%20Elias%20Sendretti&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descSize=16&descAlignY=62" width="100%" />
-<img src="https://raw.githubusercontent.com/VIZAODAVI/VIZAODAVI/main/a.jpg" width="300" alt="nicinha" />
+<img src="./nicinha.jpg" width="700">
+
   <br />
 
   <!-- Frase de destaque -->
