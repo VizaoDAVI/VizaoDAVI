@@ -8,7 +8,7 @@
   <br />
   <h1></h1>
   <!-- Frase de destaque -->
-  <code>>_ Construindo soluções em Python, HTML e CSS</code>
+<h3>🚀 <code>Transformando ideias em código e construindo soluções modernas com Python, HTML e CSS.</code></h3>
 
   <br /><br />
   ---
@@ -38,20 +38,21 @@
   ---
 
   <!-- Projetos em Destaque -->
+<!-- Projetos em Destaque -->
   <h2>📌 Projetos em Destaque</h2>
 
   <p>
-    <a href="https://github.com/VIZAODAVI/Sprint-de-arquitetura-inicial">
+    <a href="https://github.com/VIZAODAVI/Sprint-de-arquitetura-inicial" target="_blank">
       <img src="https://img.shields.io/badge/Projeto-Sprint%20de%20Arquitetura%20Inicial-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Sprint de Arquitetura Inicial" />
     </a>
-      <a href="https://github.com/VIZAODAVI/Sprint-de-arquitetura-inicial">
-      <img src="https://img.shields.io/badge/Projeto-Sprint%20de%20Arquitetura%20Inicial-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Sprint de Arquitetura Inicial" />
+    <a href="https://github.com/VIZAODAVI/petshop-css-inline" target="_blank">
+      <img src="https://img.shields.io/badge/Projeto-Petshop%20CSS%20Inline-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Petshop CSS Inline" />
     </a>
-      <a href="https://github.com/VIZAODAVI/CalculadoraIMC">
-      <img src="https://img.shields.io/badge/Projeto-Sprint%20de%20Arquitetura%20Inicial-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="CalculadoraIMC" />
+    <a href="https://github.com/VIZAODAVI/CalculadoraIMC" target="_blank">
+      <img src="https://img.shields.io/badge/Projeto-Calculadora%20IMC-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Calculadora IMC" />
     </a>
-      <a href="https://github.com/VIZAODAVI/site-tres-paginas">
-      <img src="https://img.shields.io/badge/Projeto-Sprint%20de%20Arquitetura%20Inicial-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="site-tres-paginas" />
+    <a href="https://github.com/VIZAODAVI/site-tres-paginas" target="_blank">
+      <img src="https://img.shields.io/badge/Projeto-Site%20Tr%C3%AAs%20P%C3%A1ginas-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Site Três Páginas" />
     </a>
   </p>
 
@@ -70,11 +71,15 @@
   ---
 
   <!-- Redes e Contato -->
+ <!-- Redes e Contato -->
   <h2>🌐 Conecte-se comigo</h2>
 
   <p>
     <a href="https://instagram.com/SEU_USUARIO" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="mailto:vizao.senai200@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 
