@@ -5,7 +5,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Davi%20Elias%20Sendretti-2F81F7?style=for-the-badge&labelColor=0d1117" alt="Davi Elias Sendretti" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000000000&color=2F81F7&center=true&vCenter=true&width=500&lines=Davi+Elias+Sendretti" alt="Davi Elias Sendretti" />
 </div>
 
 <br>
