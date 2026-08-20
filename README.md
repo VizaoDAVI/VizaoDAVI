@@ -27,16 +27,9 @@
   <!-- Tecnologias e Ferramentas -->
   <h2>🛠️ Tecnologias & Ferramentas</h2>
 
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  </p>
+<img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,git,github,vscode,linux&theme=dark">
 
-  ---
-
+<h1></h1>
   <!-- Projetos em Destaque -->
 <!-- Projetos em Destaque -->
   <h2>📌 Projetos em Destaque</h2>
@@ -88,4 +81,10 @@
   <!-- Contador de Visitas (Roxo) -->
   <img src="https://komarev.com/ghpvc/?username=VIZAODAVI&color=8A2BE2&style=flat-square&label=VISITAS" />
 
+
+
+<br> 
+
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" width="100%"> 
 </div>
