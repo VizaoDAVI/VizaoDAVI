@@ -38,12 +38,6 @@
   ---
 
   <!-- Estatísticas do GitHub -->
-  <h2>📊 Estatísticas</h2>
-
-  <p>
-    <img height="165" src="https://github-readme-stats-eight-now.vercel.app/api?username=VIZAODAVI&show_icons=true&theme=dracula&locale=pt-br" />
-    <img height="165" src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=VIZAODAVI&layout=compact&theme=dracula" />
-  </p>
 
   ---
 
@@ -55,7 +49,9 @@
   </p>
 
   ---
-
+<a href="https://github.com/VIZAODAVI/site_tres_paginas">
+  <img align="center" src="https://github-readme-stats-eight-now.vercel.app/api/pin/?username=VIZAODAVI&repo=NOME_DO_REPOSITORIO&theme=dracula" />
+</a>
   <!-- Redes e Contato -->
   <p>
     <a href="https://instagram.com/vizao_38" target="_blank">
