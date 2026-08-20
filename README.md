@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=32&duration=2500&pause=1000&color=0D47A1&center=true&vCenter=true&width=500&lines=Davi+Elias+Sendretti">
+<h1 align="center" style="color: #2f81f7;">Davi Elias Sendretti</h1>
 
 <br>
 
