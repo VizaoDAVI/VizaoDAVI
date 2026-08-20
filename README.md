@@ -4,7 +4,9 @@
 
 <br><br>
 
-<h1 align="center" style="color: #2f81f7;">Davi Elias Sendretti</h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/Davi%20Elias%20Sendretti-2F81F7?style=for-the-badge&labelColor=0d1117" alt="Davi Elias Sendretti" />
+</div>
 
 <br>
 
