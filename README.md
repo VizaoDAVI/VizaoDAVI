@@ -55,12 +55,10 @@
   </p>
 
   ---
-<a href="https://github.com/VIZAODAVI/NOME_DO_REPOSITORIO">
-  <img align="center" src="https://github-readme-stats-eight-now.vercel.app/api/pin/?username=VIZAODAVI&repo=NOME_DO_REPOSITORIO&theme=dracula" />
-</a>
+
   <!-- Redes e Contato -->
   <p>
-    <a href="https://instagram.com/SEU_USUARIO" target="_blank">
+    <a href="https://instagram.com/vizao38" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
   </p>
