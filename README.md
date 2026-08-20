@@ -46,7 +46,7 @@
   ---
 
   <!-- Redes e Contato -->
-  <h2>🌐 Conecte-se comigo</h2>
+
 
   <p>
     <a href="https://instagram.com/SEU_USUARIO" target="_blank">
